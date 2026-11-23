@@ -88,7 +88,7 @@ def main():
         print(f" Remediation Actions:")
         print(f"   * Immediately remove exposed assets and enforce strict web server deny rules or WAF policies.")
     else:
-        print(f" Nenhuma exposicao publica detectada nas rotas monitoradas.")
+        print(f" No public exposure detected on monitored routes.")
     print(border)
 
 if __name__ == "__main__":
