@@ -2,6 +2,7 @@
 
 [![Exposed Files Scanner](https://img.shields.io/badge/TAVARDT-Attack%20Surface-5b3cf5.svg)](https://tools.tavardt.com/uk/exposed-files-scanner/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 CLI attack surface scanner for automated discovery of exposed environment variables, database backups, git metadata, and secret leakage.
 
@@ -48,7 +49,21 @@ For automated surface monitoring and detailed vulnerability analysis, access the
 
 ## Enterprise Attack Surface Consulting
 
-For penetration testing, vulnerability remediation, and zero-trust perimeter defense in United Kingdom, contact **TAVARDT United Kingdom**.
+For penetration testing, vulnerability remediation, and zero-trust perimeter defence in the United Kingdom, contact **TAVARDT United Kingdom**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
