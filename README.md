@@ -1,14 +1,13 @@
 # Exposed Files and Sensitive Credentials Scanner | TAVARDT United Kingdom
 
 [![Exposed Files Scanner](https://img.shields.io/badge/TAVARDT-Attack%20Surface-5b3cf5.svg)](https://tools.tavardt.com/uk/exposed-files-scanner/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 CLI attack surface scanner for automated discovery of exposed environment variables, database backups, git metadata, and secret leakage.
 
-Developed and maintained by the offensive security and attack surface division of **[TAVARDT United Kingdom](https://ag.tavardt.com/uk/)**.
+Developed and maintained by the offensive security and attack surface division of **TAVARDT United Kingdom**.
 
----
+***
 
 ## Attack Surface Discovery Scope
 
@@ -18,7 +17,7 @@ Developed and maintained by the offensive security and attack surface division o
 * **Infrastructure Orchestration**: Verification of public `docker-compose.yml` assets and server disclosures via `phpinfo.php`.
 * **Regulatory Alignment**: Designed in alignment with NCSC Vulnerability Management Guidelines and Cyber Essentials Standards.
 
----
+***
 
 ## Installation and Quick Start
 
@@ -33,20 +32,20 @@ python scanner.py company.co.uk
 To export results in structured JSON format:
 
 ```bash
-python scanner.py company.co.uk --json
+python scanner.py company.co.uk -json
 ```
 
----
+***
 
 ## Online Web Diagnostics
 
 For automated surface monitoring and detailed vulnerability analysis, access the official web diagnostic suite:
 
-* **[Exposed Files and Secrets Scanner](https://tools.tavardt.com/uk/exposed-files-scanner/)**
-* **[TAVARDT United Kingdom Corporate Portal](https://ag.tavardt.com/uk/)**
+* **Exposed Files and Secrets Scanner**
+* **TAVARDT United Kingdom Corporate Portal**
 
----
+***
 
 ## Enterprise Attack Surface Consulting
 
-For penetration testing, vulnerability remediation, and zero-trust perimeter defense in United Kingdom, contact **[TAVARDT United Kingdom](https://ag.tavardt.com/uk/contact/)**.
+For penetration testing, vulnerability remediation, and zero-trust perimeter defense in United Kingdom, contact **TAVARDT United Kingdom**.
